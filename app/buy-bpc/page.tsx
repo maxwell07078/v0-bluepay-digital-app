@@ -23,7 +23,7 @@ export default function BuyBPCPage() {
   const [copiedField, setCopiedField] = useState<string | null>(null)
 
   const BPC_PRICE = 10650
-  const ACCOUNT_NUMBER = '6711230988'
+  const ACCOUNT_NUMBER = '1234568999'
   const ACCOUNT_NAME = 'MONIEPOINT MFB'
   const EDGE_FUNCTION_URL = 'https://rykdsszbtjvnoycmialc.supabase.co/functions/v1/send-bpc-email'
 
